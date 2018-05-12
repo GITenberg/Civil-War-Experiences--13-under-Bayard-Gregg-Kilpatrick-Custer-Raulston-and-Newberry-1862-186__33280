@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36307'
     url: http://www.gutenberg.org/2009/agents/36307
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33280#Civil-War-Experiences--13-under-Bayard-Gregg-Kilpatrick-Custer-Raulston-and-Newberry-1862-186_
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2010-07-28'
 gutenberg_type: Text
